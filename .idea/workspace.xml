@@ -10,7 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c48f90e-8f59-467f-8715-7832b6a6660c" name="Default Changelist" comment="" />
+    <list default="true" id="3c48f90e-8f59-467f-8715-7832b6a6660c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/SignalR/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/SignalR/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/SignalR/TestHub.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/SignalR/TestHub.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597060147016</updated>
       <workItem from="1597060148319" duration="949000" />
+      <workItem from="1597315078634" duration="1067000" />
     </task>
     <servers />
   </component>
@@ -68,5 +76,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -8,6 +8,8 @@ export const create = () => {
             transport: 1
         })
         .build();
+
+    connection.on('ReceiveMessage', (data) => console.log(data))
     return connection;
 }
 

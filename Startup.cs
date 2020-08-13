@@ -58,7 +58,7 @@ namespace dot_note_core
                     name: "default",
                     pattern: "{controller}/{action=Index}/{id?}"
                 );
-                endpoints.MapHub<ChatHub>("/testHub");
+                endpoints.MapHub<TestHub>("/testHub");
             });
 
             app.UseSpa(spa =>
